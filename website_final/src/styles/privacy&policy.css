@@ -1,0 +1,197 @@
+.topic{
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+}
+#more{
+    display:none;
+}
+body{
+    background-color:beige;
+}
+p{
+    font-size: 18;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.profile {
+
+
+    margin-left: 96%;
+    position: absolute;
+    display: inline-block;
+    z-index: 1;
+    margin-top: 2%;
+  
+  
+  }
+  
+  .profile-icon {
+    width: 40px;
+    height: 40px;
+    border-radius:25px;
+    cursor: pointer;
+  
+   
+  }
+  
+  .dropdown-menu {
+    display: none;
+    position: absolute;
+    top: 50px;
+    right: 0;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    padding: 10px;
+  }
+  
+  .dropdown-menu a {
+    display: block;
+    padding: 5px 10px;
+    text-decoration: none;
+    color: #333;
+  }
+  
+  .dropdown-menu a:hover {
+    background-color: #f4f4f4;
+  }
+  
+  
+  
+  h1.topic{
+      
+      font-family:"Times New Roman", Times, serif;
+      font-size:75px;
+      text-align:center;
+      padding-top:200px;
+      
+  }
+  
+  nav{
+      position:relative;
+      top:10px;
+      left:0;
+      width:100%;
+      height:90px;
+      padding:10px 90px;
+      box-sizing:border-box;
+      background:rgba(0,0,0,0.4);
+      border-bottom:1px solid #fff;
+      
+  }
+  nav.logo{
+      padding:22px 20px;
+      height:60px;
+      float:left;
+      color:#fff;
+      
+  }
+  nav ul {
+      list-style-type:none;
+      display:flex;
+      float:right;
+      
+  }
+  
+  nav ul li a{
+      line-height:80px;
+      color:#fff;
+      padding:12px 30px;
+      text-decoration:none;
+      font-size:14px;
+      font-weight:bold;
+      margin-left:15px;
+      margin-right:15px;
+  }
+  nav ul li a:hover{
+      background:rgba(0,0,0,0.7);
+      border-radius:8px;
+  }
+  nav ul li input{
+      padding:8px 12px;
+      font-size:14px;
+      font-weight:bold;
+      border-radius:8px;
+      background:rgba(0, 0, 255, 0.3);
+      float:right;
+      color:#fff;
+  }
+  
+  
+  .logo{
+      height:50px;
+      width:60px;
+      border:2px solid black;
+      background-color:black;
+  }
+  .icons{
+	
+	display:flex;
+	justify-content:space-around;
+}
+
+.icon{
+	display:inline-block;
+	height:25px;
+	width:25px;
+	margin:5px;
+	
+}
+
+div.footer-details{
+	display:flex;
+	justify-content:space-around;
+	
+	
+}
+a.footer-details{
+	display:inline-block;
+	color:white;
+	margin-bottom:10px;
+}
+
+footer{
+	background-color:rgb(182, 182, 182);
+	
+}
+h2 {
+	font-weight:bold;
+	color:black;
+	text-align:center;
+	
+}
+.bottom-header-sub{
+    background: url(../images/Apartment-Architecture-HD-Wallpaper-90.jpg) no-repeat top center;
+    background-size: 100%;
+    height:300px;
+    background-position: 0 -350px;
+    position:relative;
+}
+.sub-page{
+    
+    background-color:beige;
+    background:#ffffffd3;
+    box-shadow:0 0 10px 0 rgba(24, 17, 124, 0.808);
+    text-align: center;
+    border:4px solid black;
+    
+}
+body{
+    background-image:url("../images/background2.jpg");
+	background-size:cover;
+	background-repeat:no-repeat;
+}
+.button1{
+	width: 100px;
+	height:40px;
+	border: 1px solid black;
+	border-radius: 8px;
+	margin-left: 15px;
+	background-color: gray;
+	font-weight:bold;
+	
+}
+
+.button1 a{
+	text-decoration: none;
+} 
+  
