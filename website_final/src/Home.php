@@ -22,6 +22,8 @@
     <a href="Profile.php">Profile</a>
     <a href="Settings.html">Settings</a>
     <a href="logout.php">Logout</a>
+
+    
   </div>
 </div>
 
